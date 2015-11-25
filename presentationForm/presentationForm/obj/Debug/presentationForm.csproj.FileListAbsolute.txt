@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\bin\Debug\presentationForm.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\bin\Debug\presentationForm.exe
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\bin\Debug\presentationForm.pdb
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.exe
+c:\users\admin\documents\visual studio 2015\Projects\presentationForm\presentationForm\obj\Debug\presentationForm.pdb
